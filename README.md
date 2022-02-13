@@ -1,4 +1,4 @@
-# Advanced Programming Projects
+# Neural Networks and Deep Learning
 This repository contains all of my Neural Networks and Deep Learning (Fall 2021) projects. 
 
 Here's a list of my **projects**:
